@@ -1,0 +1,7 @@
+{
+    "require":{
+        "opauth/opauth": "*",
+        "opauth/openid": "*",
+        "opauth/google": "*"
+    }
+}
